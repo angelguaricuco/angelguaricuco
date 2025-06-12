@@ -2,7 +2,7 @@
 
 ---
 
-- 🖥️ Puedes ver mi portafolio en<a target="_blank" rel="noreferrer" href='https://portfolio-angel-guaricuco.netlify.app/'>Portfolio</a>
+- 🖥️ Puedes ver mi portafolio en <a target="_blank" rel="noreferrer" href='https://portfolio-angel-guaricuco.netlify.app/'>Portfolio</a>
 - 🧠 Actualmente estoy aprendiendo <a target="_blank" rel="noreferrer" href='https://tailwindcss.com'>Tailwind</a>
 - 🤝 Estoy abierto a colaborar en proyectos interesantes como Desarrollador Web FrontEnd.
 
